@@ -1,0 +1,7 @@
+[
+	{"name": "Holger", "age": 25, "city": "Berlin", "street": "Affen-Straße 12", "date": "01-01-2020"},
+	{"name": "Erni", "age": 21, "city": "Frankfurt", "street": "Sesamstraße 45", "date": "01-01-2020"},
+	{"name": "Lutz", "age": 100, "city": "München", "street": "Höhlenstraße 666", "date": "01-01-2020"},
+	{"name": "Simone", "age": 22, "city": "Hamburg", "street": "Fakestreet 123", "date": "01-01-2020"},
+	{"name": "BiggusDuckus", "age": 32, "city": "Jerusalem", "street": "Python-Straße 1a", "date": "01-01-2020"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name": "Holger", "age": 25, "city": "Berlin", "street": "Monkey-Straße 23", "date": "01-01-2021"},
+	{"name": "Erni", "age": 21, "city": "Frankfurt", "street": "Sesamstrasse 45", "date": "I bims 1 Fehler"},
+	{"name": "Lutz", "age": 101, "city": "München", "street": "Höhlenstraße 666", "date": "01-01-2019"},
+	{"name": "Julia", "age": 27, "city": "Bremen", "street": "Not A Fakestreet 123", "date": "01-01-2020"},
+	{"name": "SchwanzusLongus", "age": 32, "city": "Jerusalem", "street": "Python-Straße 1a", "date": "01-01-2020"}
+]
